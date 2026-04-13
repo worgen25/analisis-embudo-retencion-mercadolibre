@@ -76,7 +76,7 @@ Se evaluó la permanencia de usuarios en el tiempo:
 ![Retención](images/retencion.png)
 
 ### Flujo del proyecto
-![Flujo](images/flujo_proyecto.png)
+[![Flujo](images/flujo_proyecto.png)](https://github.com/worgen25/analisis-embudo-retencion-mercadolibre/blob/main/Flujo%20del%20proyecto.png?raw=true)
 
 ---
 
