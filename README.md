@@ -70,7 +70,7 @@ Se evaluó la permanencia de usuarios en el tiempo:
 ## 🖼️ Visualizaciones
 
 ### Embudo de conversión
-![Funnel](images/funnel.png)
+[![Funnel](images/funnel.png)](https://github.com/worgen25/analisis-embudo-retencion-mercadolibre/blob/main/funnel.png?raw=true)
 
 ### Retención de usuarios
 ![Retención](images/retencion.png)
